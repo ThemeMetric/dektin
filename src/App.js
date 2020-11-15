@@ -9,7 +9,6 @@ import './component/assets/css/styles.css';
 import './component/assets/css/typography.css';
 import MainRouter from './component/router/router';
 
-
 function App() {
     return <MainRouter />;
 }
